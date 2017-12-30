@@ -3,6 +3,8 @@ name = "galvanic-mock-lib"
 version = "0.2.0"
 authors = ["Christopher Bacher <mindsbackyard@gmail.com>"]
 
+description = "The support library for galvanic-mock."
+
 homepage = "https://github.com/mindsbackyard/galvanic-mock-lib"
 repository = "https://github.com/mindsbackyard/galvanic-mock-lib"
 documentation = "https://docs.rs/galvanic-mock-lib"
