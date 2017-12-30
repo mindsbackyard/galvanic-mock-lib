@@ -1,0 +1,10 @@
+[package]
+name = "galvanic-mock-lib"
+version = "0.2.0"
+authors = ["Christopher Bacher <mindsbackyard@gmail.com>"]
+
+[dependencies]
+galvanic-assert = { version = "^0.8", optional = true }
+
+[features]
+galvanic_assert_integration = ["galvanic-assert"]
